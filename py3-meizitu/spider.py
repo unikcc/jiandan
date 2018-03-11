@@ -26,7 +26,7 @@ def run(url,page=1):
 
 def manager(start=1,end=50):
     start = max(1,start)
-    end = max(1000, end)
+    end = min(1000, end)
     for i in range(start,end):
         run(indexURL,i)
 
