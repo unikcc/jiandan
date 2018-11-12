@@ -1,9 +1,7 @@
 # 爬虫练手小程序
 Java爬虫 / Python爬虫
 
-## jiandan-xxoo 
-+ 现在煎蛋网已经更新了url获取方式，原方法(或许)已经失效，推荐py3-mezitu，使用 Python, 更为方便
-+ java编写，除Httpclient外不使用第三方包. 爬取[煎蛋网](http://jandan.net/ooxx)妹子图，没有多线程，代理IP等，简单易用，适合新手
+## Java失效已删
 
 ## py3-meizitu
 + 采用`Python3`编写，抓取妹子图([点我看](http://www.meizitu.com/))
